@@ -1,4 +1,4 @@
-Modificar o exercício exercicio.py para modificar letras maíusculas
+Modificar o exercício exercicio_00.py para modificar letras maíusculas
 Dica:
 ```python
 

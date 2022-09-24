@@ -1,0 +1,21 @@
+TCA
+equipe: máx 5 alunos
+
+Parte 1 - Documentação - data: 29/09
+AV1 - ( 2,0 ) - Ideias / Rabiscos
+- Mockup / Wireframe - CLI / GUI
+    CLI - command line interface
+    GUI - graphical user interface
+
+Funcionalidades - regras de negócio
+- Descrição superficial do funcionamento do software
+
+AV2 - ( 3,0 ) - Documentação - Formal:
+data: 24 a 28/10
+- Modelo de plano de negócios com descrição preliminar do software.
+
+
+
+Parte 2 - Implementação - entre 21 e 25/11
+AV3 - apresentação
+AV4 - software
